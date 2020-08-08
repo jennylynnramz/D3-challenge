@@ -1,10 +1,9 @@
 # Correlations Discovered Between Health Risks, Age, And Income
 
-This project explored correlation between health risks, age, and income.
-
-**[Demo](https://jennylynnramz.github.io/D3-challenge/D3_data_journalism/StarterCode)**
+## Demo - [Click here](https://jennylynnramz.github.io/D3-challenge/D3_data_journalism/StarterCode)
 
 ## Desciption
+* This project explored correlation between health risks, age, and income.
 * This project creates an animated and interactive scatter plot using Javascript/D3 to [represent CSV data](https://github.com/jennylynnramz/D3-challenge/tree/master/D3_data_journalism/StarterCode/assets/data).
 * The plot changes based on the demographics selected on the X and Y status.
 * More information is available when hovering above each individual circle.
