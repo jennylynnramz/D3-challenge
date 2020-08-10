@@ -1,6 +1,6 @@
 # Correlations Discovered Between Health Risks, Age, And Income
 
-## Demo - [Click here](https://jennylynnramz.github.io/health_risk_dashboard)
+## Demo - [Click here](http://jennylynnramz.com/health_risk_dashboard/)
 
 ## Desciption
 * This project explored correlation between health risks, age, and income.
