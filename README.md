@@ -2,6 +2,8 @@
 
 ## Demo - [Click here](http://jennylynnramz.com/health_risk_dashboard/)
 
+![Preview](https://raw.githubusercontent.com/jennylynnramz/jennylynnramz.github.io/master/Photos/Health-Risk-dashboard.png)
+
 ## Description
 * This project explored correlation between health risks, age, and income.
 * This project creates an animated and interactive scatter plot using Javascript/D3 to [represent CSV data](https://github.com/jennylynnramz/health_risk_dashboard/blob/master/assets/data/data.csv).
